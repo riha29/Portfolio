@@ -1,0 +1,145 @@
+.naming-intro {
+    margin-top: 300px;
+    margin-left: 250px;
+    
+}
+
+/* .hello {
+    color: #7851a9;
+    /* margin-top: 100px;
+    margin-left: 160px; */
+    /* font-size: 30px;
+    font-weight: 200;
+    
+} */ */
+
+/* .this-is-faozia {
+    /* margin-left: 143px;
+    margin-top: -30px; */
+    /* color: purple;
+    font-size: 60px;
+    font-weight: 300;
+    font-family: cursive;
+    float: left;
+} */ */
+
+.build-climber {
+    color: #66023c; 
+    font-weight: 250;    
+    margin-top: 200px;
+    font-size: 20px;
+}
+ 
+.something1 {
+    font-weight: 200;
+    color: #70435b;    
+    margin-top: -15px;
+    font-size: 20px;
+}
+
+.div1 {
+    float: left 100px;
+    margin-left: 100px;
+}
+
+.hire-me {
+    background-blend-mode: luminosity;
+    background-color: palevioletred;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-family: cursive;
+    color: darkmagenta;
+}
+
+.dream-big{
+    color: #7851a9;
+    margin-top: 100px;
+    margin-left: 820px;
+    font-size: 30px;
+    font-weight: 200;
+    font-family: cursive;
+}
+
+.become-web-dev {
+    color: #66023c; 
+    margin-top: 10px;
+    font-weight: 250;    
+    font-size: 20px;
+    margin-right: 100px ;
+    margin-left: 800px;
+}   
+
+.something2 {
+    font-weight: 200;
+    color: #70435b;    
+    margin-top: -15px;
+    font-size: 20px;
+    margin-left: 800px;
+    margin-right: 70px;
+}
+
+.download-resume {
+    background-blend-mode: luminosity;
+    background-color: palevioletred;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-left: 800px;
+    font-family: cursive;
+    color: darkmagenta;
+}
+
+.experiences {
+    color: purple;
+    font-size: 40px;
+    font-weight: 300;
+    font-family: cursive;
+    margin-left: 50px;
+}
+
+.full-stack {
+    color: #7851a9;
+    margin-top: 100px;
+    margin-left: 120px;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.full-stack1 {
+    color: #7851a9;
+    margin-top: 200px;
+    margin-left: 120px;
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.duration {
+    color: #66023c; 
+    font-weight: 250;    
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 120px;
+    float: left;
+}
+
+.something3 {
+    font-weight: 200;
+    color: #70435b;    
+    font-size: 20px;
+    margin-left: 600px;
+    margin-right: 70px;
+    margin-top: 100px;
+}
+
+.something4 {
+    font-weight: 200;
+    color: #70435b;    
+    font-size: 20px;
+    margin-left: 600px;
+    margin-right: 70px;
+    margin-top: 150px;
+}
+
+.footer {
+    margin-top: 300px;
+    margin-left: 500px;
+}
