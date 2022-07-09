@@ -1,8 +1,34 @@
-.naming-intro {
-    margin-top: 300px;
-    margin-left: 250px;
-    
+.intro {
+    /* margin-right: 200px; */
+    float: right;
+    padding-top: 10px;
+    margin-left: -250px;
 }
+
+.bg-image {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAFVBMVEUUHz0OJU8VHzsQI0kQI0cPJU0NKFJ72m0oAAABd0lEQVR4nO3QyQ3AIADAsF50/5HbEcgLIdkTRDkOJl336oKNmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFZgVmBWYFVzP6oKN/LNO5ozxfrZSBH/YGJ2QAAAAAElFTkSuQmCC);
+    width: fit-content;
+    height: fit-content;
+}
+
+.pic {
+    float: left;
+    margin-top: -5px;
+    margin-left: 160px;
+    width: 700px;
+}
+
+.shape {
+    margin-top: -100px;
+}
+
+
+/* .port {
+    width: 100%;
+    opacity: 20%;
+    margin-top: -1000px;
+} */
+
 
 /* .hello {
     color: #7851a9;
@@ -22,7 +48,7 @@
     font-family: cursive;
     float: left;
 } */ */
-
+/* 
 .build-climber {
     color: #66023c; 
     font-weight: 250;    
@@ -142,4 +168,4 @@
 .footer {
     margin-top: 300px;
     margin-left: 500px;
-}
+} */
