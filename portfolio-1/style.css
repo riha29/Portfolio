@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+h1 {
+    font-size: 50px;
+}
+.color {
+    color: white;
+    font-weight: lighter;
+    margin-top: -50px;
+}
+.color-1 {
+    color:#CDF0FF;
+    font-size:30px;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.flexible-continer {
+    display: flex;
+}
+.half-width {
+    width: 50%;
+    margin-top: 300px;
+    margin-left: 240px;
+} 
+
+.half-width-pic {
+    width: 400px;
+    margin-left: -90px;
+    margin-top: 70px;
+    /* margin-right: 150px; */
+    height: 500px;
+}
+.half-width img {
+    width: 90%;
+}
+.half-width P {
+    color: #666;
+    line-height: 20px;
+    width: 90%;
+}
+.button {
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+.top-section {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+/* dream big section */
+.dream-big {
+    margin-top: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* experiences section */
+.experiences {
+    padding: 50px;
+}
+.experiences div {
+    width: 80%;
+}
+.ecperience-card-area {
+    display: flex;
+}
+
+@media screen and (max-width: 900px) {
+    .top-section {
+      display: block;
+      align-items: center;
+      padding: 50px;
+      text-align: justify;
+    }
+    h1 {
+        text-align: center;
+        font-size: 40px;
+    }
+    .half-width {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .half-width img {
+        width: 100%;
+    }
+    .orange-color {
+        margin-top: 0;
+    }
+  }
